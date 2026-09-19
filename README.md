@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="./assets/stp_title_animated_fontmatch.svg" width="100%" alt="STP — System That Performs" />
+  <img src="./assets/stp_title_faithful_animated_cropped.svg" width="100%" alt="STP — System That Performs" />
 </div>
 
 ###
