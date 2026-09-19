@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="34" viewBox="0 0 1000 34">
+<style>
+.t{font:700 14px monospace;fill:#fff}.o{fill:#ff8200}.d{fill:#171c24}
+@keyframes blink{50%{opacity:.35}}.blink{animation:blink 1.4s steps(2,end) infinite}
+</style>
+<path class="d" d="M16 7h968v20H16z"/><path class="o" d="M0 15h350v4H0zm650 0h350v4H650z"/>
+<path class="o" d="M350 11h8v12h-8zm292 0h8v12h-8z"/>
+<text class="t" x="500" y="22" text-anchor="middle">TECH STACK</text>
+<rect class="o blink" x="372" y="15" width="5" height="5"/><rect class="o blink" x="623" y="15" width="5" height="5"/>
+</svg>
