@@ -15,6 +15,10 @@
 
 ###
 
+<div align="center">
+  <img src="./assets/tech_stack_header_8bit.svg" width="100%" alt="Tech Stack" />
+</div>
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -74,6 +78,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="./assets/contribution_system_header_8bit.svg" width="100%" alt="Contribution System" />
+</div>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IGORFILADELFO/IGORFILADELFO/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
