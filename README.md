@@ -6,19 +6,11 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/igorfila/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.twitch.tv/ryzerig" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/igorfila/" target="_blank"><img src="./assets/linkedin_8bit.svg" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><img src="./assets/instagram_8bit.svg" height="42" alt="Instagram" /></a>
+  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="./assets/gmail_8bit.svg" height="42" alt="Gmail" /></a>
+  <a href="https://www.twitch.tv/ryzerig" target="_blank"><img src="./assets/twitch_8bit.svg" height="42" alt="Twitch" /></a>
 </div>
 
 ###
