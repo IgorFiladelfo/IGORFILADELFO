@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h1 data-importer="text" align="center">STP — System That Performs</h1>
+<div align="center">
+  <img src="./assets/stp_title_animated_fontmatch.svg" width="100%" alt="STP — System That Performs" />
+</div>
 
 ###
 
@@ -11,7 +13,7 @@
   <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="hhttps://www.linkedin.com/in/igorfila/" target="_blank">
+  <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.twitch.tv/ryzerig" target="_blank">
@@ -89,17 +91,12 @@
 
 ###
 
-<div data-importer="border" align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Software%20Engineer%20-%20Igor%20Filadelfo&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7A00" />
+<div align="center">
+  <img src="./assets/software_engineer_8bit.svg" width="100%" alt="Software Engineer - Igor Filadelfo" />
 </div>
 
 ###
 
 <br>
 
-<div align="center">
-  <img src="./assets/globe.svg" width="100%" alt="SYNCSTP — animated global network globe" />
-</div>
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=One%20mind%20flow&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7A00" />
-</div>
+<div align="center"><img src="./assets/globe.svg" width="100%" alt="SYNCSTP — animated global network globe" /><img src="./assets/one_mind_flow_8bit.svg" width="100%" alt="One mind flow" /></div>
