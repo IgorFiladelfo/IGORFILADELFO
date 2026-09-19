@@ -94,3 +94,11 @@
 </div>
 
 ###
+
+<br>
+
+<div align="center">
+  <img src="./assets/globe.svg" width="100%" alt="SYNCSTP — animated global network globe" />
+</div>
+
+<br>
