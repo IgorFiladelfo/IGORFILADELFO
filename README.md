@@ -89,8 +89,8 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=30&section=header&reversal=false&fontSize=70&fontColor=ffdbbb&fontAlign=50&fontAlignY=50&stroke=-&desc=Software%20Engineer%20-%20Igor%20Filadelfo&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Software%20Engineer%20-%20Igor%20Filadelfo&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7A00" />
 </div>
 
 ###
@@ -100,5 +100,6 @@
 <div align="center">
   <img src="./assets/globe.svg" width="100%" alt="SYNCSTP — animated global network globe" />
 </div>
-
-<br>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=One%20mind%20flow&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FF7A00" />
+</div>
