@@ -109,21 +109,20 @@
   <img src="./assets/projects_8bit_final.svg" width="100%" alt="Projects — SyncFlow / Sync Motion" />
 </div>
 
-<table align="center" width="100%" cellpadding="10" cellspacing="0">
+<table align="center" width="100%" cellpadding="12" cellspacing="0">
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="49%" valign="middle">
       <a href="./assets/SyncFlow.svg">
         <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
       </a>
-      <br><br>
-      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
     </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="2%" valign="middle">
+      <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
+    </td>
+    <td align="center" width="49%" valign="middle">
       <a href="./assets/syncmotion.svg">
         <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
       </a>
-      <br><br>
-      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
     </td>
   </tr>
 </table>
