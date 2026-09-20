@@ -106,23 +106,27 @@
 <br>
 
 <div align="center">
-  <img src="./assets/projects_8bit_final.svg" width="100%" alt="Projects — SyncFlow / Sync Motion" />
+  <img src="./assets/projects_8bit_final_compact.svg" width="100%" alt="Projects — SyncFlow / Sync Motion" />
 </div>
 
 <table align="center" width="100%" cellpadding="12" cellspacing="0">
   <tr>
     <td align="center" width="49%" valign="middle">
+      <br>
       <a href="./assets/SyncFlow.svg">
         <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
       </a>
+      <br>
     </td>
     <td align="center" width="2%" valign="middle">
       <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
     </td>
     <td align="center" width="49%" valign="middle">
+      <br>
       <a href="./assets/syncmotion.svg">
         <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
       </a>
+      <br>
     </td>
   </tr>
 </table>
