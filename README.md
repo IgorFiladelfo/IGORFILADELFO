@@ -112,7 +112,6 @@
 <table align="center" width="100%" cellpadding="12" cellspacing="0">
   <tr>
     <td align="center" width="49%" valign="middle">
-      <br>
       <a href="./assets/SyncFlow.svg">
         <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
       </a>
@@ -122,7 +121,6 @@
       <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
     </td>
     <td align="center" width="49%" valign="middle">
-      <br>
       <a href="./assets/syncmotion.svg">
         <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
       </a>
