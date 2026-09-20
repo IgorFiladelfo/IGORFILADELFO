@@ -133,4 +133,24 @@
   <img src="./assets/animated_synckey_synctc.svg" width="100%" alt="SYNCKEY / SYNCTC" />
 </div>
 
+<table align="center" width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td align="center" width="49%" valign="middle">
+      <a href="./assets/synckey.svg">
+        <img src="./assets/synckey.svg" width="96%" alt="SYNCKEY preview" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="2%" valign="middle">
+      <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
+    </td>
+    <td align="center" width="49%" valign="middle">
+      <a href="./assets/synctc.svg">
+        <img src="./assets/synctc.svg" width="96%" alt="SYNCTC preview" />
+      </a>
+      <br>
+    </td>
+  </tr>
+</table>
+
 <br>
