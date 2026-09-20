@@ -100,3 +100,45 @@
 <br>
 
 <div align="center"><img src="./assets/globe.svg" width="100%" alt="SYNCSTP — animated global network globe" /><img src="./assets/one_mind_flow_8bit.svg" width="100%" alt="One mind flow" /></div>
+
+###
+
+<br>
+
+<div align="center">
+  <img src="./assets/projects_header_8bit.svg" width="100%" alt="Projects" />
+</div>
+
+<br>
+
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="49%" valign="top">
+      <strong>SYNCFLOW</strong>
+      <br><br>
+      <img src="./assets/project_line_orange.svg" width="96%" alt="" />
+      <br><br>
+      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
+        <img src="./assets/SyncFlow.gif" width="96%" alt="SYNCFLOW preview" />
+      </a>
+      <br><br>
+      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
+    </td>
+    <td align="center" width="2%" valign="middle">
+      <img src="./assets/project_divider_orange.svg" width="2" height="330" alt="" />
+    </td>
+    <td align="center" width="49%" valign="top">
+      <strong>SYNC MOTION</strong>
+      <br><br>
+      <img src="./assets/project_line_orange.svg" width="96%" alt="" />
+      <br><br>
+      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
+        <img src="./assets/SyncMotion.gif" width="96%" alt="SYNC MOTION preview" />
+      </a>
+      <br><br>
+      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
+    </td>
+  </tr>
+</table>
+
+<br>
