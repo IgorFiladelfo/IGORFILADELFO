@@ -119,7 +119,7 @@
       <img src="./assets/project_line_orange.svg" width="96%" alt="" />
       <br><br>
       <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
-        <img src="./assets/SyncFlow.gif" width="96%" alt="SYNCFLOW preview" />
+        <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
       </a>
       <br><br>
       <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
@@ -133,7 +133,7 @@
       <img src="./assets/project_line_orange.svg" width="96%" alt="" />
       <br><br>
       <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
-        <img src="./assets/SyncMotion.gif" width="96%" alt="SYNC MOTION preview" />
+        <img src="./assets/SyncMotion.svg" width="96%" alt="SYNC MOTION preview" />
       </a>
       <br><br>
       <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
