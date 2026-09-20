@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Synckey conectado ao Synctc">
+<defs>
+  <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="1.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation=".7" result="tb"/>
+    <feMerge><feMergeNode in="tb"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .o{fill:none;stroke:#FF7A00;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter}
+    .pix{fill:#FFFFFF;filter:url(#textGlow)}
+    .spark{fill:#FF7A00}
+    .glow{filter:url(#softGlow)}
+    .runner{fill:none;stroke:#FFD0A8;stroke-width:3;stroke-dasharray:22 820;animation:run 4.2s linear infinite}
+    .runner2{fill:none;stroke:#FFD0A8;stroke-width:3;stroke-dasharray:18 824;animation:run 4.2s linear 1s infinite}
+    .flicker{animation:flicker 2.3s steps(1,end) infinite}
+    .pulse{animation:pulse 3s ease-in-out infinite}
+    .panelFill{fill:#0D1117}
+    @keyframes run{to{stroke-dashoffset:-842}}
+    @keyframes flicker{0%,70%,82%,100%{opacity:1}72%,80%{opacity:.22}}
+    @keyframes pulse{0%,100%{opacity:.72}50%{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.runner,.runner2,.flicker,.pulse{animation:none}}
+  </style>
+</defs>
+
+<!-- transparent canvas -->
+
+<g class="glow">
+  <path class="o" d="M264.0 96 V54 H936.0 V96"/>
+  <path class="runner" d="M264.0 96 V54 H936.0 V96"/>
+  <path class="runner2" d="M264.0 96 V54 H936.0 V96"/>
+  <rect class="spark pulse" x="258.0" y="48.0" width="12" height="12"/>
+  <rect class="spark flicker" x="930.0" y="48.0" width="12" height="12"/>
+  <rect class="spark" x="258.0" y="90.0" width="12" height="12"/>
+  <rect class="spark" x="930.0" y="90.0" width="12" height="12"/>
+</g>
+
+<g class="glow">
+  <path d="M130 96 H398 L410 108 V152 L398 164 H130 L118 152 V108 Z" class="panelFill"/>
+  <path class="o" d="M130 96 H398 L410 108 V152 L398 164 H130 L118 152 V108 Z"/>
+  <path class="o" d="M130 90 H398 M110 108 V152 M418 108 V152" opacity=".72"/>
+  <rect x="186.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="190.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="194.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="198.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="182.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="182.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="186.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="190.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="194.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="198.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="198.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="182.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="186.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="190.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="194.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="206.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="222.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="206.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="222.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="210.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="218.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="214.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="214.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="214.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="214.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="234.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="238.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="242.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="230.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="246.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="258.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="262.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="266.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="270.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="254.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="254.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="254.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="254.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="254.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="258.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="262.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="266.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="270.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="294.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="290.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="286.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="282.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="286.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="290.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="278.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="294.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="306.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="310.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="314.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="318.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="306.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="310.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="314.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="302.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="306.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="310.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="314.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="318.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="326.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="342.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="326.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="342.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="330.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="338.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="334.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="334.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="334.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="334.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+  <rect class="spark flicker" x="98" y="110" width="7" height="7"/>
+  <rect class="spark" x="108" y="120" width="6" height="6"/>
+  <rect class="spark" x="414" y="114" width="6" height="6"/>
+  <rect class="spark flicker" x="424" y="124" width="7" height="7"/>
+</g>
+
+<g class="glow">
+  <path d="M802 96 H1070 L1082 108 V152 L1070 164 H802 L790 152 V108 Z" class="panelFill"/>
+  <path class="o" d="M802 96 H1070 L1082 108 V152 L1070 164 H802 L790 152 V108 Z"/>
+  <path class="o" d="M802 90 H1070 M782 108 V152 M1090 108 V152" opacity=".72"/>
+  <rect x="870.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="874.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="878.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="882.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="866.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="866.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="870.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="874.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="878.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="882.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="882.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="866.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="870.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="874.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="878.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="890.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="906.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="890.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="906.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="894.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="902.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="898.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="898.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="898.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="898.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="918.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="922.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="926.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="914.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="930.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="942.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="946.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="950.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="954.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="938.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="938.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="938.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="938.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="938.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="942.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="946.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="950.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="954.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="962.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="966.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="974.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="978.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="970.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="990.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="994.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="998.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="1002.0" y="116.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="986.0" y="120.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="986.0" y="124.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="986.0" y="128.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="986.0" y="132.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="986.0" y="136.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="990.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="994.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="998.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+<rect x="1002.0" y="140.0" width="4" height="4" rx="0.3" class="pix"/>
+  <rect class="spark flicker" x="770" y="110" width="7" height="7"/>
+  <rect class="spark" x="780" y="120" width="6" height="6"/>
+  <rect class="spark" x="1086" y="114" width="6" height="6"/>
+  <rect class="spark flicker" x="1096" y="124" width="7" height="7"/>
+</g>
+</svg>
