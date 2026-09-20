@@ -106,33 +106,20 @@
 <br>
 
 <div align="center">
-  <img src="./assets/projects_header_8bit.svg" width="100%" alt="Projects" />
+  <img src="./assets/projects_8bit_final.svg" width="100%" alt="Projects — SyncFlow / Sync Motion" />
 </div>
 
-<br>
-
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
+<table align="center" width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="49%" valign="top">
-      <strong>SYNCFLOW</strong>
-      <br><br>
-      <img src="./assets/project_line_orange.svg" width="96%" alt="" />
-      <br><br>
-      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
+    <td align="center" width="50%" valign="top">
+      <a href="./assets/SyncFlow.svg">
         <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
       </a>
       <br><br>
       <a href="https://www.instagram.com/igorfiladelfo/" target="_blank"><strong>[ VIEW PROJECT &gt; ]</strong></a>
     </td>
-    <td align="center" width="2%" valign="middle">
-      <img src="./assets/project_divider_orange.svg" width="2" height="330" alt="" />
-    </td>
-    <td align="center" width="49%" valign="top">
-      <strong>SYNC MOTION</strong>
-      <br><br>
-      <img src="./assets/project_line_orange.svg" width="96%" alt="" />
-      <br><br>
-      <a href="https://www.instagram.com/igorfiladelfo/" target="_blank">
+    <td align="center" width="50%" valign="top">
+      <a href="./assets/syncmotion.svg">
         <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
       </a>
       <br><br>
