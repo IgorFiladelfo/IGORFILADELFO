@@ -129,4 +129,8 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="./assets/animated_synckey_synctc.svg" width="100%" alt="SYNCKEY / SYNCTC" />
+</div>
+
 <br>
