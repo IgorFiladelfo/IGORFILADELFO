@@ -153,4 +153,12 @@
   </tr>
 </table>
 
+<br><br>
+
+<div align="center">
+  <a href="https://syncstp.com.br/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/learn_more_8bit.svg" width="70%" alt="Learn more about SYNCKEY and SYNCTC" />
+  </a>
+</div>
+
 <br>
