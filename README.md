@@ -112,14 +112,18 @@
 <table align="center" width="100%" cellpadding="12" cellspacing="0">
   <tr>
     <td align="center" width="49%" valign="middle">
-      <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
+      <a href="./assets/SyncFlow.svg">
+        <img src="./assets/SyncFlow.svg" width="96%" alt="SYNCFLOW preview" />
+      </a>
       <br>
     </td>
     <td align="center" width="2%" valign="middle">
       <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
     </td>
     <td align="center" width="49%" valign="middle">
-      <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
+      <a href="./assets/syncmotion.svg">
+        <img src="./assets/syncmotion.svg" width="96%" alt="SYNC MOTION preview" />
+      </a>
       <br>
     </td>
   </tr>
@@ -132,14 +136,18 @@
 <table align="center" width="100%" cellpadding="12" cellspacing="0">
   <tr>
     <td align="center" width="49%" valign="middle">
-      <img src="./assets/synckey.svg" width="96%" alt="SYNCKEY preview" />
+      <a href="./assets/synckey.svg">
+        <img src="./assets/synckey.svg" width="96%" alt="SYNCKEY preview" />
+      </a>
       <br>
     </td>
     <td align="center" width="2%" valign="middle">
       <img src="./assets/project_divider_orange.svg" width="2" height="100%" alt="" />
     </td>
     <td align="center" width="49%" valign="middle">
-      <img src="./assets/synctc.svg" width="96%" alt="SYNCTC preview" />
+      <a href="./assets/synctc.svg">
+        <img src="./assets/synctc.svg" width="96%" alt="SYNCTC preview" />
+      </a>
       <br>
     </td>
   </tr>
