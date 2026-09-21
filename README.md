@@ -130,7 +130,7 @@
 </table>
 
 <div align="center">
-  <img src="./assets/animated_synckey_portal.svg" width="100%" alt="SYNCKEY / SYNCTC" />
+  <img src="./assets/animated_synckey_synctc.svg" width="100%" alt="SYNCKEY / SYNCTC" />
 </div>
 
 <table align="center" width="100%" cellpadding="12" cellspacing="0">
